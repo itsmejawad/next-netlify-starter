@@ -11,9 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header>
+        <h1 class"title"> Follow us @WEB3forFreedom <h1/>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>pages/index.js</code
+        <Header/>
         </p>
       </main>
 
